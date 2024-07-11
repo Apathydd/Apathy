@@ -6,7 +6,7 @@ let img_width=220; //每张图片的固定宽度
 function createImgs(){
     for(let i=1;i<=15;i++){
         // 生成图片的src路径（图片名为：1~15.jpg）
-        let src='/images/194/'+i+'.jpg';
+        let src='../../images/194/'+i+'.jpg';
         let img=document.createElement('img');
         img.src=src;
         img.width=img_width;

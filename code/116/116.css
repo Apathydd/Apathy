@@ -80,7 +80,7 @@ body{
 }
 /* 卡片一 */
 .card:nth-child(1){
-    background: url("/images/op/black/1.jpg") no-repeat;
+    background: url("../../images/op/black/1.jpg") no-repeat;
     background-position: right bottom;
     background-size: 300px;
 }
@@ -94,7 +94,7 @@ body{
 }
 /* 卡片二 */
 .card:nth-child(2){
-    background: url("/images/op/black/2.jpg") no-repeat;
+    background: url("../../images/op/black/2.jpg") no-repeat;
     background-position: right bottom;
     background-size: 300px;
 }
@@ -108,7 +108,7 @@ body{
 }
 /* 卡片三 */
 .card:nth-child(3){
-    background: url("/images/op/black/3.jpg") no-repeat;
+    background: url("../../images/op/black/3.jpg") no-repeat;
     background-position: right bottom;
     background-size: 300px;
 }

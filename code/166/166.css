@@ -23,7 +23,7 @@ body{
     width: 100%;
     height: 100%;
     /* 背景图像 */
-    background-image: url('/images/camera.jpg');
+    background-image: url('../../images/camera.jpg');
     /* 不平铺 */
     background-repeat: no-repeat;
     /* 保持图像比例，裁切长边 */
@@ -52,7 +52,7 @@ body{
     border-radius: 50%;
     border: 8px solid rgba(255,255,255,0.25);
     position: absolute;
-    background-image: url('/images/camera.jpg');
+    background-image: url('../../images/camera.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
